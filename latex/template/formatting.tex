@@ -1,11 +1,5 @@
 % Settings used by \usepackage{hyperref}
 % Used to setup hyperlinks, as well as to properly annotate PDF metadata
-\hypersetup{
-  colorlinks=true,
-  linkcolor=blue,
-  urlcolor=blue,
-}
-\urlstyle{sf}
 
 % Settings used by \usepackage{setspace}
 % These commands are used to change the line-spacing of the text.
@@ -64,6 +58,14 @@
 \newcommand{\marginsecnumber}[1]{%
   \makebox[0pt][r]{#1\hspace{6pt}}%
 }
+\titleformat{\chapter}
+  {\normalfont\Large\bfseries}
+  {\marginsecnumber\thesection}
+  {0pt}
+  {}
+% Remove the extra white space above the chapter
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+
 \titleformat{\section}
   {\normalfont\Large\bfseries}
   {\marginsecnumber\thesection}

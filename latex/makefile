@@ -1,5 +1,5 @@
 # Makefile for latexmk
-source_name = paper
+source_name = sartre-essay
 
 # Makes sure latexmk always runs
 .PHONY: $(source_name).pdf all clean
