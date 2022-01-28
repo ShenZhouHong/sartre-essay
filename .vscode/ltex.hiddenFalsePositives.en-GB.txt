@@ -2,3 +2,4 @@
 {"rule":"BOTH_AS_WELL_AS","sentence":"^\\QThe question of being is both the broadest question, as well as the deepest – those answer must account for [4]heidegger some elephant in some jungle in India, just as much as some chemical oxidation process on the planet Mars.\\E$"}
 {"rule":"BOTH_AS_WELL_AS","sentence":"^\\QThe question of being is both the broadest question, as well as the deepest – those answer must account both for [4]Heidegger some elephant in some jungle in India, just as much as some chemical oxidation process on the planet Mars.\\E$"}
 {"rule":"BOTH_AS_WELL_AS","sentence":"^\\QThe question of being is both the broadest question, as well as the deepest – those answer must account both for [4]Heidegger some elephant in a jungle in India, just as much as some chemical oxidation process on the planet Mars.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qprotrusion = true, expansion = true, tracking = true, factor = 1000, patch = all, final\\E$"}
