@@ -1,4 +1,6 @@
-# Essay on Sartre
+# Essay on Sartre's Being and Nothingness
+
+In fulfilment of my Senior Year at St. John's College, Annapolis 2022.
 
 ## Compiling document
 
