@@ -12,3 +12,6 @@
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QThis factual necessity is akin to a certain anthropic principle of ontology.\\E$"}
 {"rule":"REPEATED_VERBS","sentence":"^\\QThis positional nature of consciousness is also the reason why the ontology of consciousness is a transcendence: [22]Sartre transcendence is a constitutive structure of consciousness, which is to say that consciousness is born bearing on a being that it is not.\\E$"}
 {"rule":"THE_SUPERLATIVE","sentence":"^\\QThe first and theoretically simplest method, is for us to appeal to reflectivity as a foundation for this consciousness-of-consciousness.\\E$"}
+{"rule":"ANY_BODY","sentence":"^\\QWhat does Sartre discern, from the fact that our original consciousness of perception (the immediate consciousness from the above passage) does not contain any thing which allows our subsequent judgement?\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QThe thetic object of it, that which it posits towards, is the original reflected consciousness (that feeling, or desire, as per our thought experiment).\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QThe thetic object of the reflecting consciousness, that which it posits towards, is the original reflected consciousness (that feeling, or desire, as per our thought experiment).\\E$"}
