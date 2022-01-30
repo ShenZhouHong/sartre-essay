@@ -6,3 +6,6 @@ thetic
 contentless
 cogito
 non-thetic
+percipi
+percipere
+perceptum
