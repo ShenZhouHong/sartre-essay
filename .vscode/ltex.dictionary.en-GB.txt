@@ -10,3 +10,4 @@ percipi
 percipere
 perceptum
 preontological
+adequation
