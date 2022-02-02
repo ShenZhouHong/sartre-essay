@@ -1,0 +1,32 @@
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        % Co-incidence
+        \tkzDefPoint(0,0){A}
+        \tkzDefPoint(1.5,0){B}
+        \tkzDrawCircle[color=red](A,B)
+        \tkzDrawCircle[color=blue](B,A)
+        
+        % \tkzDrawPoints(A,B)
+        % \tkzLabelPoints(A,B)
+
+        % Midpoint of the Venn Diagram (used for alignment)
+        \tkzDefMidPoint(A,B) \tkzGetPoint{ABmid}
+
+        \tkzDefPoint(3,0){APrime}
+
+        % Co-incidence
+        \tkzDefPoint(6,0){C}
+        \tkzDefPoint(4.5,0){D}
+        \tkzDrawCircle[color=purple](C,D)
+        
+        % \tkzDrawPoints(C,D)
+        % \tkzLabelPoints(C,D)
+
+        \tkzDefMidPoint(D,APrime) \tkzGetPoint{DAPrimemid}
+        \tkzLabelPoint[align=center,anchor=center](DAPrimemid){$\longrightarrow$}
+    \end{tikzpicture}
+    \caption{The Limiting Relationship between Unity and Identity}
+    \label{fig:coincidence-1}
+\end{figure}
+  
