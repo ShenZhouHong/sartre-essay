@@ -68,16 +68,33 @@
   bindingoffset=0cm
 }
 
+\frontmatter
 \pagestyle{plain}
 
 \maketitle
 
+\include{sections/dedication.tex}
+
 \tableofcontents
+
+\clearpage
+
+% From now on use page n of m style numbering
+\mainmatter
+\assignpagestyle{\chapter}{fancy}
+\pagestyle{fancy}
 
 \include{sections/introduction.tex}
 
-\include{sections/body.tex}
+\include{sections/cosmogony.tex}
 
+\include{sections/contingency.tex}
+
+\include{sections/teleology.tex}
+
+\include{sections/conclusion.tex}
+
+\backmatter
 \include{sections/endpage.tex}
 
 \end{document}
