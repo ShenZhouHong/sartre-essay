@@ -19,3 +19,4 @@
 {"rule":"BOTH_AS_WELL_AS","sentence":"^\\QAlthough the phrase self-consciousness is a more succinct term for the consciousness-of-consciousness, we will refrain from using it – both in order to stay faithful to Sartre's own terminology, as well as to avoid any confusion with self-presence, a concept which we will elaborate in later sections.\\E$"}
 {"rule":"REPEATED_VERBS","sentence":"^\\QThis is what Sartre means, when he says [10]Sartre consciousness is born bearing on a being that it is not.\\E$"}
 {"rule":"FIRST_OF_ALL","sentence":"^\\QThe being-of-consciousness is a being, first of all – this is indisputable.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QThe italicisation of , from, and for is for especial emphasis.\\E$"}
