@@ -17,7 +17,7 @@
 % For more information on documentclass configuration, see:
 % https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/#formula
 \documentclass[
-  10pt,       % 10pt, 11pt, 12pt
+  11pt,       % 10pt, 11pt, 12pt
   letterpaper,    % a4paper, letterpaper, a5paper, b5paper, executivepaper, legalpaper
   final,      % draft
   onecolumn,  % twocolumn
@@ -68,6 +68,7 @@
   bindingoffset=0cm
 }
 
+% Frontmatter
 \frontmatter
 \pagestyle{plain}
 
@@ -75,10 +76,7 @@
 
 \include{sections/dedication.tex}
 
-\renewcommand{\contentsname}{Table of Contents}
-\tableofcontents
-
-\clearpage
+\include{sections/table-of-contents.tex}
 
 % From now on use page n of m style numbering
 \mainmatter
@@ -95,7 +93,6 @@
 
 \include{sections/conclusion.tex}
 
-\backmatter
 \include{sections/endpage.tex}
 
 \end{document}
