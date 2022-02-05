@@ -225,3 +225,6 @@ TSWLatexianTemp*
 
 # XML Document Metadata (Generated during make)
 *.xmpi
+
+# Don't commit rough ideas into version-control
+rough-pad.md
