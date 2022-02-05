@@ -20,3 +20,6 @@
 {"rule":"REPEATED_VERBS","sentence":"^\\QThis is what Sartre means, when he says [10]Sartre consciousness is born bearing on a being that it is not.\\E$"}
 {"rule":"FIRST_OF_ALL","sentence":"^\\QThe being-of-consciousness is a being, first of all – this is indisputable.\\E$"}
 {"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QThe italicisation of , from, and for is for especial emphasis.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\Q[365]Sartre To be looked at is to grasp oneself as the unknown object of unknowable assessments, and in particular, evaluative accessments being seen constitutes me as a defenceless being for a freedom that is not my own.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QThus, my being is not only contingent on the basis of my own non-being – but my being is contingent on the basis of a freedom that is both outside of me, and fundamentally inaccessible to me.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QIf anguish is the existential anxiety that not-having a foundation for our being, then our being-for-the-Other is the existential terror of being contingent solely on the whims of a foreign freedom.\\E$"}
