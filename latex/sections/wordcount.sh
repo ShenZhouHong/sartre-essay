@@ -5,5 +5,5 @@
 	introduction.tex \
 	cosmogony.tex \
 	contingency.tex \
-	teleology.tex \
+	love.tex \
 	conclusion.tex
