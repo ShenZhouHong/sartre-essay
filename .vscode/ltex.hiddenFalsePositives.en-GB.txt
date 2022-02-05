@@ -29,3 +29,4 @@
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QBut rather, this is a special kind of appropriation, a desire to possess a freedom as freedom.\\E$"}
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QThis possession of a freedom as a freedom is essential to the project of love\\E$"}
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QThis possession of a freedom as a freedom is essential to the project of love, for the very being-for-the-Other that we seek, only exists within the contingency of the Other's freedom.\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QWhen the being of my for-itself transcends towards its desire of being a [735]Sartre foundation of its own being-in-itself purely by the means of its own being conscious of itself, I cannot let an external being serve as a surrogate for this being conscious of [my own] itself.\\E$"}
