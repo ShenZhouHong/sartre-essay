@@ -23,3 +23,9 @@
 {"rule":"A_UNCOUNTABLE","sentence":"^\\Q[365]Sartre To be looked at is to grasp oneself as the unknown object of unknowable assessments, and in particular, evaluative accessments being seen constitutes me as a defenceless being for a freedom that is not my own.\\E$"}
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QThus, my being is not only contingent on the basis of my own non-being – but my being is contingent on the basis of a freedom that is both outside of me, and fundamentally inaccessible to me.\\E$"}
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QIf anguish is the existential anxiety that not-having a foundation for our being, then our being-for-the-Other is the existential terror of being contingent solely on the whims of a foreign freedom.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\Q[485]Sartre My project to reclaim my being can be fulfilled only if I take hold of that freedom, and reduce it to being a freedom that submits to my freedom\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\Q[485]Sartre My project to reclaim my being can be fulfilled only if I take hold of that freedom, and reduce it to being a freedom that submits to my freedom.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QWhat does it mean to reduce a freedom to a being which submits to our own freedom?\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QBut rather, this is a special kind of appropriation, a desire to possess a freedom as freedom.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QThis possession of a freedom as a freedom is essential to the project of love\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QThis possession of a freedom as a freedom is essential to the project of love, for the very being-for-the-Other that we seek, only exists within the contingency of the Other's freedom.\\E$"}
