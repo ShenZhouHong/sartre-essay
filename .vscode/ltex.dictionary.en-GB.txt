@@ -21,3 +21,5 @@ facticity
 alterity
 baryosynthesis
 decentering
+discongruity
+ipseity
