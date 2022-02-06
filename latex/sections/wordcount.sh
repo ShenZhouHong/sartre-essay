@@ -6,4 +6,5 @@
 	cosmogony.tex \
 	contingency.tex \
 	love.tex \
+	philosophy.tex \
 	conclusion.tex
