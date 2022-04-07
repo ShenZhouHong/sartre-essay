@@ -4,6 +4,8 @@
 
 An Essay written by Shen Zhou Hong, in fulfilment of a Bachelor's Degree in the Liberal Arts, at St. John's College.
 
+![Hummingbird and Apple Blossoms - painting by Martin Johnson Heade. Public Domain, image source: Wikimedia Commons.](apple-blossoms.jpg)
+
 ## Introduction/Précis
 
 What does it mean to be human? What does it mean to be? These are the eternal questions of Philosophy, the inquiries which aim to ground the experiences of our human reality. Metaphysics is the proper study of these questions, and Jean-Paul Sartre’s Being and Nothingness is a monograph which presents an entirely novel account of metaphysics as we know it – where the foundation of our ontology as conscious, human beings comes not from being at all, but rather from nothingness. 
