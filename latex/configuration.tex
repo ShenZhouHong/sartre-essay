@@ -23,15 +23,33 @@
 % \usepackage{xeCJK}                  % For typesetting CJK characters
 % \usepackage[l2tabu, orthodox]{nag}  % Verbose warnings for typesetting
 \usepackage{lipsum}                 % For lorem lipsum placeholder text
+\usepackage{lastpage}               % Gives us \lastpage
 
-\usepackage{enumitem}               % Makes the lists more compact, saving paper.
-\setlist{nosep}
+% Begin custom geometry
+\newgeometry{
+  % Preserve the LaTeX default \textwidth and \textheight
+  textwidth =\textwidth,
+  textheight=\textheight,
+  % Include the margin notes space when doing body calculations
+  includemp=false,
+  % Increase margin notes width and seperation
+  marginparwidth=\marginparwidth,
+  marginparsep=\marginparsep,
+  % Center doucment body vertically and horizontally
+  hcentering=true,
+  vcentering=true,
+  % Minor tweaks to header and footer seperation
+  headsep   =0.5cm,
+  footskip  =1cm,
+  bindingoffset=0cm
+}
 
+% For Chinese font support
 \usepackage{luatexja-fontspec}
 \setmainjfont{FandolSong}
 
+\usepackage{fancyhdr}
 % Settings used by \usepackage{fancyhdr}
-
 \fancypagestyle{fancy}{
   % Add a line to the footer as well as the header
   % \renewcommand\headrulewidth{0.4pt}

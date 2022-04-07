@@ -26,13 +26,9 @@
 ]{book}
 
 % Template preamble files. These should not be modified.
-\input{template/accessibility.tex}
-
 \input{template/packages.tex}
 
 \input{template/formatting.tex}
-
-\input{template/lua-protrusion.tex}
 
 % Project-specific preamble files. Include additional packages here.
 \input{configuration.tex}
@@ -46,29 +42,10 @@
 \author{
   Shen Zhou Hong \and St. John's College
 }
-\date{\today}
+\date{February 5th, 2022}
 
 % Document Begins
 \begin{document}
-
-% Begin custom geometry
-\newgeometry{
-  % Preserve the LaTeX default \textwidth and \textheight
-  textwidth =\textwidth,
-  textheight=\textheight,
-  % Include the margin notes space when doing body calculations
-  includemp=false,
-  % Increase margin notes width and seperation
-  marginparwidth=\marginparwidth,
-  marginparsep=\marginparsep,
-  % Center doucment body vertically and horizontally
-  hcentering=true,
-  vcentering=true,
-  % Minor tweaks to header and footer seperation
-  headsep   =0.5cm,
-  footskip  =1cm,
-  bindingoffset=0cm
-}
 
 % Frontmatter
 \frontmatter
