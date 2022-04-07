@@ -27,7 +27,8 @@ This is the subject of my essay, on Contingency and Apotheosis in Sartrean Metap
 ## Accessing document
 A PDF version of this essay is available at the following link:
 
-[**Contingency and Apotheosis in Sartrean Metaphysics**](./latex/sartre-essay.pdf)
+* [**Contingency and Apotheosis in Sartrean Metaphysics**](./latex/sartre-essay.pdf)
+* [**Précis (Summary)**](./precis.md)
 
 ## Compiling document
 
